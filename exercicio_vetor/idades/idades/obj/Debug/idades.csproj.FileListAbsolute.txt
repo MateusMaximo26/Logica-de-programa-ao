@@ -1,0 +1,11 @@
+G:\curso\logica\vetor\25_10\exercicio\idades\idades\bin\Debug\idades.exe.config
+G:\curso\logica\vetor\25_10\exercicio\idades\idades\bin\Debug\idades.exe
+G:\curso\logica\vetor\25_10\exercicio\idades\idades\bin\Debug\idades.pdb
+G:\curso\logica\vetor\25_10\exercicio\idades\idades\obj\Debug\idades.exe
+G:\curso\logica\vetor\25_10\exercicio\idades\idades\obj\Debug\idades.pdb
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\bin\Debug\idades.exe.config
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\obj\Debug\idades.exe
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\obj\Debug\idades.pdb
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\bin\Debug\idades.exe
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\bin\Debug\idades.pdb
+G:\curso\logica\_vetor\25_10\exercicio\idades\idades\obj\Debug\idades.csprojResolveAssemblyReference.cache

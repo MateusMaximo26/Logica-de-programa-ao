@@ -1,0 +1,5 @@
+G:\curso\logica\_vetor\05_11\exercicio3\exercicio3\bin\Debug\exercicio3.exe.config
+G:\curso\logica\_vetor\05_11\exercicio3\exercicio3\bin\Debug\exercicio3.exe
+G:\curso\logica\_vetor\05_11\exercicio3\exercicio3\bin\Debug\exercicio3.pdb
+G:\curso\logica\_vetor\05_11\exercicio3\exercicio3\obj\Debug\exercicio3.exe
+G:\curso\logica\_vetor\05_11\exercicio3\exercicio3\obj\Debug\exercicio3.pdb

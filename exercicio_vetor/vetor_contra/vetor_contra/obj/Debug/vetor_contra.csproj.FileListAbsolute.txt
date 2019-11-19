@@ -1,0 +1,5 @@
+G:\curso\logica\_vetor\25_10\exercicio\vetor_contra\vetor_contra\bin\Debug\vetor_contra.exe.config
+G:\curso\logica\_vetor\25_10\exercicio\vetor_contra\vetor_contra\bin\Debug\vetor_contra.exe
+G:\curso\logica\_vetor\25_10\exercicio\vetor_contra\vetor_contra\bin\Debug\vetor_contra.pdb
+G:\curso\logica\_vetor\25_10\exercicio\vetor_contra\vetor_contra\obj\Debug\vetor_contra.exe
+G:\curso\logica\_vetor\25_10\exercicio\vetor_contra\vetor_contra\obj\Debug\vetor_contra.pdb

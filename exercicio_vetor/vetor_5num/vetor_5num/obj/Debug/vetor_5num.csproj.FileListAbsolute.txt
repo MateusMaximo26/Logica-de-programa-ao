@@ -1,0 +1,12 @@
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.exe.config
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.exe
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.pdb
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.csprojResolveAssemblyReference.cache
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.exe
+G:\curso\logica\vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.pdb
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.exe.config
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.exe
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.pdb
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.exe
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\bin\Debug\vetor_5num.pdb
+G:\curso\logica\_vetor\25_10\exercicio\vetor_5num\vetor_5num\obj\Debug\vetor_5num.csprojResolveAssemblyReference.cache
