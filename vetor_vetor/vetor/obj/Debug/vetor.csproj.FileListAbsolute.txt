@@ -1,0 +1,6 @@
+G:\curso\logica\vetor\25_10\vetor\vetor\bin\Debug\vetor.exe.config
+G:\curso\logica\vetor\25_10\vetor\vetor\bin\Debug\vetor.exe
+G:\curso\logica\vetor\25_10\vetor\vetor\bin\Debug\vetor.pdb
+G:\curso\logica\vetor\25_10\vetor\vetor\obj\Debug\vetor.csprojResolveAssemblyReference.cache
+G:\curso\logica\vetor\25_10\vetor\vetor\obj\Debug\vetor.exe
+G:\curso\logica\vetor\25_10\vetor\vetor\obj\Debug\vetor.pdb
