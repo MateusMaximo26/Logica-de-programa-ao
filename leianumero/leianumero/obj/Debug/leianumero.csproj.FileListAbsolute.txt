@@ -1,0 +1,5 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\leianumero\leianumero\bin\Debug\leianumero.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\leianumero\leianumero\bin\Debug\leianumero.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\leianumero\leianumero\bin\Debug\leianumero.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\leianumero\leianumero\obj\Debug\leianumero.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\leianumero\leianumero\obj\Debug\leianumero.pdb

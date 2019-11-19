@@ -1,0 +1,6 @@
+F:\Logica de programaçao\calculo_media\calculo_media\obj\Debug\calculo_media.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\calculo_media\calculo_media\bin\Debug\calculo_media.exe.config
+F:\Logica de programaçao\calculo_media\calculo_media\bin\Debug\calculo_media.exe
+F:\Logica de programaçao\calculo_media\calculo_media\bin\Debug\calculo_media.pdb
+F:\Logica de programaçao\calculo_media\calculo_media\obj\Debug\calculo_media.exe
+F:\Logica de programaçao\calculo_media\calculo_media\obj\Debug\calculo_media.pdb

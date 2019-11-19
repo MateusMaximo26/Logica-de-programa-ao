@@ -1,0 +1,6 @@
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\bin\Debug\soma_quadrados.exe.config
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\bin\Debug\soma_quadrados.exe
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\bin\Debug\soma_quadrados.pdb
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\obj\Debug\soma_quadrados.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\obj\Debug\soma_quadrados.exe
+F:\Logica de programaçao\soma_quadrados\soma_quadrados\obj\Debug\soma_quadrados.pdb

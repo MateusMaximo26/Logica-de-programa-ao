@@ -1,0 +1,6 @@
+F:\Logica de programaçao\area_trapezio\area_trapezio\bin\Debug\area_trapezio.exe.config
+F:\Logica de programaçao\area_trapezio\area_trapezio\bin\Debug\area_trapezio.exe
+F:\Logica de programaçao\area_trapezio\area_trapezio\bin\Debug\area_trapezio.pdb
+F:\Logica de programaçao\area_trapezio\area_trapezio\obj\Debug\area_trapezio.exe
+F:\Logica de programaçao\area_trapezio\area_trapezio\obj\Debug\area_trapezio.pdb
+F:\Logica de programaçao\area_trapezio\area_trapezio\obj\Debug\area_trapezio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\1a10\1a10\bin\Debug\1a10.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\1a10\1a10\bin\Debug\1a10.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\1a10\1a10\bin\Debug\1a10.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\1a10\1a10\obj\Debug\1a10.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\1a10\1a10\obj\Debug\1a10.pdb
+G:\curso\logica\04_10\1a10\1a10\bin\Debug\1a10.exe.config
+G:\curso\logica\04_10\1a10\1a10\obj\Debug\1a10.exe
+G:\curso\logica\04_10\1a10\1a10\obj\Debug\1a10.pdb
+G:\curso\logica\04_10\1a10\1a10\bin\Debug\1a10.exe
+G:\curso\logica\04_10\1a10\1a10\bin\Debug\1a10.pdb
+G:\curso\logica\04_10\1a10\1a10\obj\Debug\1a10.csprojResolveAssemblyReference.cache

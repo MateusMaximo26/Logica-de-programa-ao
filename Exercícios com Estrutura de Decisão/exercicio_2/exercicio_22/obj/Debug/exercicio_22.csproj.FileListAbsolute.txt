@@ -1,0 +1,6 @@
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\bin\Debug\exercicio_22.exe.config
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\obj\Debug\exercicio_22.csprojResolveAssemblyReference.cache
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\bin\Debug\exercicio_22.exe
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\bin\Debug\exercicio_22.pdb
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\obj\Debug\exercicio_22.exe
+F:\Logica de programaçao\Exercícios com Estrutura de Decisão\exercicio_22\exercicio_22\obj\Debug\exercicio_22.pdb

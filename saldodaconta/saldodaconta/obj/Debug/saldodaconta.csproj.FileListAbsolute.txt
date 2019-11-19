@@ -1,0 +1,5 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\saldodaconta\saldodaconta\bin\Debug\saldodaconta.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\saldodaconta\saldodaconta\bin\Debug\saldodaconta.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\saldodaconta\saldodaconta\bin\Debug\saldodaconta.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\saldodaconta\saldodaconta\obj\Debug\saldodaconta.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\saldodaconta\saldodaconta\obj\Debug\saldodaconta.pdb

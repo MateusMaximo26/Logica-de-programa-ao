@@ -1,0 +1,5 @@
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\lernumbfor\lernumbfor\bin\Debug\lernumbfor.exe.config
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\lernumbfor\lernumbfor\bin\Debug\lernumbfor.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\lernumbfor\lernumbfor\bin\Debug\lernumbfor.pdb
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\lernumbfor\lernumbfor\obj\Debug\lernumbfor.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\lernumbfor\lernumbfor\obj\Debug\lernumbfor.pdb

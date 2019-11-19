@@ -1,0 +1,6 @@
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\bin\Debug\exemplo_for.exe.config
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\bin\Debug\exemplo_for.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\bin\Debug\exemplo_for.pdb
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\obj\Debug\exemplo_for.csprojResolveAssemblyReference.cache
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\obj\Debug\exemplo_for.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\exemplo_for\exemplo_for\obj\Debug\exemplo_for.pdb

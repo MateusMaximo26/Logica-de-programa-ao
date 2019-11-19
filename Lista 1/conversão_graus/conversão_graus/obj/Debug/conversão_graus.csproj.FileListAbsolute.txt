@@ -1,0 +1,6 @@
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\bin\Debug\conversão_graus.exe.config
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\bin\Debug\conversão_graus.exe
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\bin\Debug\conversão_graus.pdb
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\obj\Debug\conversão_graus.csproj.CoreCompileInputs.cache
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\obj\Debug\conversão_graus.exe
+C:\Users\33339\Desktop\Logica de programaçao\conversão_graus\conversão_graus\obj\Debug\conversão_graus.pdb

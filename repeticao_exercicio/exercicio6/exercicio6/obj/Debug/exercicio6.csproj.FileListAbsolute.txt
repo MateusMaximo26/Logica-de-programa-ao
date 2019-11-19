@@ -1,0 +1,6 @@
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\bin\Debug\exercicio6.exe
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\bin\Debug\exercicio6.pdb
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\obj\Debug\exercicio6.pdb
+G:\curso\logica\04_10\exercicios\exercicio6\exercicio6\obj\Debug\exercicio6.csprojResolveAssemblyReference.cache

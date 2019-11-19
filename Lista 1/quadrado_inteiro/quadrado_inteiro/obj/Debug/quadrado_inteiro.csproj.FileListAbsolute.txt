@@ -1,0 +1,6 @@
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\bin\Debug\quadrado_inteiro.exe.config
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\bin\Debug\quadrado_inteiro.exe
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\bin\Debug\quadrado_inteiro.pdb
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\obj\Debug\quadrado_inteiro.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\obj\Debug\quadrado_inteiro.exe
+F:\Logica de programaçao\quadrado_inteiro\quadrado_inteiro\obj\Debug\quadrado_inteiro.pdb

@@ -1,0 +1,6 @@
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\bin\Debug\volume.exe.config
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\bin\Debug\volume.exe
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\bin\Debug\volume.pdb
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\obj\Debug\volume.csproj.CoreCompileInputs.cache
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\obj\Debug\volume.exe
+C:\Users\33339\Desktop\Logica de programaçao\volume\volume\obj\Debug\volume.pdb

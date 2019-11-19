@@ -1,0 +1,7 @@
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\obj\Debug\prestação_atraso.csprojAssemblyReference.cache
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\obj\Debug\prestação_atraso.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\bin\Debug\prestação_atraso.exe.config
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\bin\Debug\prestação_atraso.exe
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\bin\Debug\prestação_atraso.pdb
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\obj\Debug\prestação_atraso.exe
+F:\Logica de programaçao\prestação_atraso\prestação_atraso\obj\Debug\prestação_atraso.pdb

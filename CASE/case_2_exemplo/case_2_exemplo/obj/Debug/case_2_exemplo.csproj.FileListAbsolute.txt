@@ -1,0 +1,6 @@
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\bin\Debug\case_2_exemplo.exe.config
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\obj\Debug\case_2_exemplo.csprojResolveAssemblyReference.cache
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\bin\Debug\case_2_exemplo.exe
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\bin\Debug\case_2_exemplo.pdb
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\obj\Debug\case_2_exemplo.exe
+F:\Logica de programaçao\case\case_2_exemplo\case_2_exemplo\obj\Debug\case_2_exemplo.pdb

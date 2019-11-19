@@ -1,0 +1,5 @@
+G:\curso\logica\04_10\exercicios\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+G:\curso\logica\04_10\exercicios\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+G:\curso\logica\04_10\exercicios\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+G:\curso\logica\04_10\exercicios\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+G:\curso\logica\04_10\exercicios\exercicio2\exercicio2\obj\Debug\exercicio2.pdb

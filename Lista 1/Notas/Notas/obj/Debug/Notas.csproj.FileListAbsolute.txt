@@ -1,0 +1,6 @@
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\bin\Debug\Notas.exe.config
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\bin\Debug\Notas.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\bin\Debug\Notas.pdb
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\obj\Debug\Notas.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\Notas\Notas\obj\Debug\Notas.pdb

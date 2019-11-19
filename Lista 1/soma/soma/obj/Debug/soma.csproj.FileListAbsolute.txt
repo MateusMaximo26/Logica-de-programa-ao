@@ -1,0 +1,7 @@
+C:\Users\33339\Desktop\Nova pasta\soma\soma\bin\Debug\soma.exe.config
+C:\Users\33339\Desktop\Nova pasta\soma\soma\bin\Debug\soma.exe
+C:\Users\33339\Desktop\Nova pasta\soma\soma\bin\Debug\soma.pdb
+C:\Users\33339\Desktop\Nova pasta\soma\soma\obj\Debug\soma.csprojAssemblyReference.cache
+C:\Users\33339\Desktop\Nova pasta\soma\soma\obj\Debug\soma.csproj.CoreCompileInputs.cache
+C:\Users\33339\Desktop\Nova pasta\soma\soma\obj\Debug\soma.exe
+C:\Users\33339\Desktop\Nova pasta\soma\soma\obj\Debug\soma.pdb

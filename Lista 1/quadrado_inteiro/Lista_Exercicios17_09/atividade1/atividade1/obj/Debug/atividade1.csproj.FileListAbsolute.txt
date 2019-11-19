@@ -1,0 +1,5 @@
+G:\curso\logica\Lista_Exercicios17_09\atividade1\atividade1\bin\Debug\atividade1.exe.config
+G:\curso\logica\Lista_Exercicios17_09\atividade1\atividade1\bin\Debug\atividade1.exe
+G:\curso\logica\Lista_Exercicios17_09\atividade1\atividade1\bin\Debug\atividade1.pdb
+G:\curso\logica\Lista_Exercicios17_09\atividade1\atividade1\obj\Debug\atividade1.exe
+G:\curso\logica\Lista_Exercicios17_09\atividade1\atividade1\obj\Debug\atividade1.pdb

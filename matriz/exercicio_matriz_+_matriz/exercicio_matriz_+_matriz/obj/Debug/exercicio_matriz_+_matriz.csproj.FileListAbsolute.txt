@@ -1,0 +1,6 @@
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\bin\Debug\exercicio_matriz_+_matriz.exe.config
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\bin\Debug\exercicio_matriz_+_matriz.exe
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\bin\Debug\exercicio_matriz_+_matriz.pdb
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\obj\Debug\exercicio_matriz_+_matriz.csprojResolveAssemblyReference.cache
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\obj\Debug\exercicio_matriz_+_matriz.exe
+c:\users\34824.etecpaof.007\documents\visual studio 2015\Projects\exercicio_matriz_+_matriz\exercicio_matriz_+_matriz\obj\Debug\exercicio_matriz_+_matriz.pdb

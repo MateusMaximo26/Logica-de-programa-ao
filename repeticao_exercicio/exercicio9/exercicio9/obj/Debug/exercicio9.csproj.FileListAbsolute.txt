@@ -1,0 +1,6 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.pdb

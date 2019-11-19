@@ -1,0 +1,6 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\bin\Debug\idade.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\bin\Debug\idade.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\bin\Debug\idade.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\obj\Debug\idade.csprojResolveAssemblyReference.cache
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\obj\Debug\idade.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\idade\idade\obj\Debug\idade.pdb

@@ -1,0 +1,12 @@
+G:\curso\logica\matriz\matriz1\matriz1\bin\Debug\matriz1.exe.config
+G:\curso\logica\matriz\matriz1\matriz1\bin\Debug\matriz1.exe
+G:\curso\logica\matriz\matriz1\matriz1\bin\Debug\matriz1.pdb
+G:\curso\logica\matriz\matriz1\matriz1\obj\Debug\matriz1.csprojResolveAssemblyReference.cache
+G:\curso\logica\matriz\matriz1\matriz1\obj\Debug\matriz1.exe
+G:\curso\logica\matriz\matriz1\matriz1\obj\Debug\matriz1.pdb
+F:\Logica de programaçao\matriz\matriz1\matriz1\bin\Debug\matriz1.exe.config
+F:\Logica de programaçao\matriz\matriz1\matriz1\obj\Debug\matriz1.exe
+F:\Logica de programaçao\matriz\matriz1\matriz1\obj\Debug\matriz1.pdb
+F:\Logica de programaçao\matriz\matriz1\matriz1\bin\Debug\matriz1.exe
+F:\Logica de programaçao\matriz\matriz1\matriz1\bin\Debug\matriz1.pdb
+F:\Logica de programaçao\matriz\matriz1\matriz1\obj\Debug\matriz1.csprojResolveAssemblyReference.cache

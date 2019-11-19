@@ -1,0 +1,5 @@
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.pdb
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio10\exercicio10\obj\Debug\exercicio10.exe
+c:\users\temp.etecpaof\documents\visual studio 2015\Projects\exercicio10\exercicio10\obj\Debug\exercicio10.pdb

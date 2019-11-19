@@ -1,0 +1,6 @@
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\obj\Debug\reajuste_salário.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\bin\Debug\reajuste_salário.exe.config
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\bin\Debug\reajuste_salário.exe
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\bin\Debug\reajuste_salário.pdb
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\obj\Debug\reajuste_salário.exe
+F:\Logica de programaçao\reajuste_salário\reajuste_salário\obj\Debug\reajuste_salário.pdb

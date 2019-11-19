@@ -1,0 +1,5 @@
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\atividade7\atividade7\bin\Debug\atividade7.exe.config
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\atividade7\atividade7\bin\Debug\atividade7.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\atividade7\atividade7\bin\Debug\atividade7.pdb
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\atividade7\atividade7\obj\Debug\atividade7.exe
+c:\users\34824.etecpaof.002\documents\visual studio 2015\Projects\atividade7\atividade7\obj\Debug\atividade7.pdb

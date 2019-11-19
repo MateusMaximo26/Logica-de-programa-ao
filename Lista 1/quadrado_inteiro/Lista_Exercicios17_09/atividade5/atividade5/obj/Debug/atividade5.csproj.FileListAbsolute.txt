@@ -1,0 +1,6 @@
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\bin\Debug\atividade5.exe.config
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\bin\Debug\atividade5.exe
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\bin\Debug\atividade5.pdb
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\obj\Debug\atividade5.exe
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\obj\Debug\atividade5.pdb
+G:\curso\logica\Lista_Exercicios17_09\atividade5\atividade5\obj\Debug\atividade5.csprojResolveAssemblyReference.cache

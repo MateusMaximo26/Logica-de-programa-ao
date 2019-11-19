@@ -1,0 +1,6 @@
+G:\curso\logica\04_10\tabuada\tabuada\bin\Debug\tabuada.exe.config
+G:\curso\logica\04_10\tabuada\tabuada\bin\Debug\tabuada.exe
+G:\curso\logica\04_10\tabuada\tabuada\bin\Debug\tabuada.pdb
+G:\curso\logica\04_10\tabuada\tabuada\obj\Debug\tabuada.csprojResolveAssemblyReference.cache
+G:\curso\logica\04_10\tabuada\tabuada\obj\Debug\tabuada.exe
+G:\curso\logica\04_10\tabuada\tabuada\obj\Debug\tabuada.pdb

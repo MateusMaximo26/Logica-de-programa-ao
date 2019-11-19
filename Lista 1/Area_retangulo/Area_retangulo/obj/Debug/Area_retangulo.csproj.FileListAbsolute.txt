@@ -1,0 +1,6 @@
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\obj\Debug\Area_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\bin\Debug\Area_retangulo.exe.config
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\bin\Debug\Area_retangulo.exe
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\bin\Debug\Area_retangulo.pdb
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\obj\Debug\Area_retangulo.exe
+C:\Users\33339\Desktop\Logica de programaçao\Area_retangulo\Area_retangulo\obj\Debug\Area_retangulo.pdb

@@ -1,0 +1,12 @@
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.exe.config
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.exe
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.pdb
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.csprojResolveAssemblyReference.cache
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.exe
+G:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.pdb
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.exe.config
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.exe
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\bin\Debug\exercicio8.pdb
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.csprojAssemblyReference.cache
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.exe
+B:\curso\logica\04_10\exercicios\exercicio8\exercicio8\obj\Debug\exercicio8.pdb

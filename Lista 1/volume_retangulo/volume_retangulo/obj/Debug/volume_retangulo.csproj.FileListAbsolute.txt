@@ -1,0 +1,6 @@
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\bin\Debug\volume_retangulo.exe.config
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\bin\Debug\volume_retangulo.exe
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\bin\Debug\volume_retangulo.pdb
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\obj\Debug\volume_retangulo.csproj.CoreCompileInputs.cache
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\obj\Debug\volume_retangulo.exe
+F:\Logica de programaçao\volume_retangulo\volume_retangulo\obj\Debug\volume_retangulo.pdb
