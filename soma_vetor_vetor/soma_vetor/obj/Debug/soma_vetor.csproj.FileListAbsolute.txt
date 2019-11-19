@@ -1,0 +1,6 @@
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe.config
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\bin\Debug\soma_vetor.pdb
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csprojResolveAssemblyReference.cache
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\obj\Debug\soma_vetor.exe
+G:\curso\logica\vetor\25_10\soma_vetor\soma_vetor\obj\Debug\soma_vetor.pdb

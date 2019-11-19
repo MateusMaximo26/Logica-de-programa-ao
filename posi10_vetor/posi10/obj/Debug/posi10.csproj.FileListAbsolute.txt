@@ -1,0 +1,5 @@
+G:\curso\logica\_vetor\29_10\posi10\posi10\bin\Debug\posi10.exe.config
+G:\curso\logica\_vetor\29_10\posi10\posi10\bin\Debug\posi10.exe
+G:\curso\logica\_vetor\29_10\posi10\posi10\bin\Debug\posi10.pdb
+G:\curso\logica\_vetor\29_10\posi10\posi10\obj\Debug\posi10.exe
+G:\curso\logica\_vetor\29_10\posi10\posi10\obj\Debug\posi10.pdb

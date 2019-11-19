@@ -1,0 +1,5 @@
+G:\curso\logica\_vetor\29_10\posicao6\posicao6\bin\Debug\posicao6.exe.config
+G:\curso\logica\_vetor\29_10\posicao6\posicao6\bin\Debug\posicao6.exe
+G:\curso\logica\_vetor\29_10\posicao6\posicao6\bin\Debug\posicao6.pdb
+G:\curso\logica\_vetor\29_10\posicao6\posicao6\obj\Debug\posicao6.exe
+G:\curso\logica\_vetor\29_10\posicao6\posicao6\obj\Debug\posicao6.pdb
