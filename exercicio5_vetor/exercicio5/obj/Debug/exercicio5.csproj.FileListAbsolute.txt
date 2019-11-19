@@ -1,0 +1,6 @@
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\obj\Debug\exercicio5.csprojResolveAssemblyReference.cache
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+G:\curso\logica\_vetor\05_11\exercicio5\exercicio5\obj\Debug\exercicio5.pdb
